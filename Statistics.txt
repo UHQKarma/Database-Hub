@@ -1,7 +1,8 @@
-Total Databases: 3
-Total Lines: 2,112,642
+Total Databases: 4
+Total Lines: 2,591,520
 
 Database Names:
 Dave | 144,939
 Dota | 1,154,484
 Warframe | 813,219
+Emu Paradise | 478,878
