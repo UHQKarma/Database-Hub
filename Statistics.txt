@@ -1,6 +1,7 @@
-Total Databases: 2
-Total Lines: 1,299,423
+Total Databases: 3
+Total Lines: 2,112,642
 
 Database Names:
 Dave | 144,939
 Dota | 1,154,484
+Warframe | 813,219
