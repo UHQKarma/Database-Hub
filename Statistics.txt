@@ -1,4 +1,5 @@
-Total Databases:
-Total Lines:
+Total Databases: 1
+Total Lines: 144,939
 
 Database Names:
+Dave | 144,939
